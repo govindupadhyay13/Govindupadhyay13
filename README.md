@@ -15,7 +15,7 @@ Currently exploring AI research, multimodal systems, retrieval-augmented generat
   <a href="mailto:govindupadhyay1307@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/GovindUpadhyay13">
+  <a href="https://github.com/GoWind13">
     <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
@@ -172,12 +172,12 @@ A computer vision-based system enabling hands-free computer interaction.
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GovindUpadhyay13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GovindUpadhyay13&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GoWind13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoWind13&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="90%" src="https://streak-stats.demolab.com?user=GovindUpadhyay13&theme=tokyonight&hide_border=true" />
+  <img width="90%" src="https://streak-stats.demolab.com?user=GoWind13&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -214,13 +214,13 @@ I'm always interested in discussing AI research, engineering projects, hackathon
   <a href="mailto:govindupadhyay1307@gmail.com">
     <img src="https://img.shields.io/badge/Email-Drop%20a%20Message-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/GovindUpadhyay13">
+  <a href="https://github.com/GoWind13">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GovindUpadhyay13&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=GoWind13&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
